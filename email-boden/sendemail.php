@@ -12,7 +12,7 @@ try {
         'from_name' => 'El equipo de Trinova',
         'to' => array(
             array(
-                'email' => "ventas@bpr.com.mx",
+                'email' => "alonsosalcido13@gmail.com",
                 // 'name' => 'Recipient Name',
                 'type' => 'to'
             )
